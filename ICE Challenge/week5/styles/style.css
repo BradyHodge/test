@@ -1,0 +1,23 @@
+#hero {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+#image_bar{
+    padding: 0;
+    width: 100%;
+}
+.crop {
+    border-radius: 50%;
+    width: 30%;
+    border: 1vw solid #444444;
+    margin: 0 auto;
+}
+body {
+    background-color: #737373;
+}
+img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
